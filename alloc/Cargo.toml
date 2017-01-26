@@ -1,0 +1,6 @@
+[package]
+name = "alloc"
+version = "0.1.0"
+authors = ["Buddhika Chamith <chamibuddhika@gmail.com>"]
+
+[dependencies]
